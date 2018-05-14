@@ -1,0 +1,6 @@
+C:\Users\georg\Desktop\C#Tutorials\DayCounter\DayCounter\bin\Debug\DayCounter.exe.config
+C:\Users\georg\Desktop\C#Tutorials\DayCounter\DayCounter\bin\Debug\DayCounter.exe
+C:\Users\georg\Desktop\C#Tutorials\DayCounter\DayCounter\bin\Debug\DayCounter.pdb
+C:\Users\georg\Desktop\C#Tutorials\DayCounter\DayCounter\obj\Debug\DayCounter.exe
+C:\Users\georg\Desktop\C#Tutorials\DayCounter\DayCounter\obj\Debug\DayCounter.pdb
+C:\Users\georg\Desktop\C#Tutorials\DayCounter\DayCounter\obj\Debug\DayCounter.csprojResolveAssemblyReference.cache
