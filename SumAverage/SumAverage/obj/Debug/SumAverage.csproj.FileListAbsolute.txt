@@ -1,0 +1,6 @@
+G:\c#\SumAverage\SumAverage\bin\Debug\SumAverage.exe.config
+G:\c#\SumAverage\SumAverage\bin\Debug\SumAverage.exe
+G:\c#\SumAverage\SumAverage\bin\Debug\SumAverage.pdb
+G:\c#\SumAverage\SumAverage\obj\Debug\SumAverage.csprojResolveAssemblyReference.cache
+G:\c#\SumAverage\SumAverage\obj\Debug\SumAverage.exe
+G:\c#\SumAverage\SumAverage\obj\Debug\SumAverage.pdb

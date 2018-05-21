@@ -1,0 +1,6 @@
+G:\c#\insertIntoSorted\insertIntoSorted\bin\Debug\insertIntoSorted.exe.config
+G:\c#\insertIntoSorted\insertIntoSorted\bin\Debug\insertIntoSorted.exe
+G:\c#\insertIntoSorted\insertIntoSorted\bin\Debug\insertIntoSorted.pdb
+G:\c#\insertIntoSorted\insertIntoSorted\obj\Debug\insertIntoSorted.csprojResolveAssemblyReference.cache
+G:\c#\insertIntoSorted\insertIntoSorted\obj\Debug\insertIntoSorted.exe
+G:\c#\insertIntoSorted\insertIntoSorted\obj\Debug\insertIntoSorted.pdb
