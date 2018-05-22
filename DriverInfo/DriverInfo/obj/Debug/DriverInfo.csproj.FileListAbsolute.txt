@@ -1,0 +1,6 @@
+G:\c#\DriverInfo\DriverInfo\bin\Debug\DriverInfo.exe.config
+G:\c#\DriverInfo\DriverInfo\bin\Debug\DriverInfo.exe
+G:\c#\DriverInfo\DriverInfo\bin\Debug\DriverInfo.pdb
+G:\c#\DriverInfo\DriverInfo\obj\Debug\DriverInfo.csprojResolveAssemblyReference.cache
+G:\c#\DriverInfo\DriverInfo\obj\Debug\DriverInfo.exe
+G:\c#\DriverInfo\DriverInfo\obj\Debug\DriverInfo.pdb
